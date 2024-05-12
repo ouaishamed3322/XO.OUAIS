@@ -1,0 +1,70 @@
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.exe
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.pdb
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.csprojResolveAssemblyReference.cache
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Form1.resources
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Properties.Resources.resources
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.exe
+c:\users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.pdb
+C:\Users\ابو بكر\Documents\Visual Studio 2015\Projects\xo\xo\obj\Debug\xo.Form2.resources
+C:\Users\ابو بكر\Documents\Visual Studio 2015\Projects\xo\xo\obj\Debug\xo.Form3.resources
+C:\Users\ابو بكر\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.names.resources
+F:\xo\xo\obj\Debug\xo.exe
+F:\xo\xo\obj\Debug\xo.pdb
+F:\xo\xo\bin\Debug\xo.exe
+F:\xo\xo\bin\Debug\xo.pdb
+F:\xo\xo\obj\Debug\xo.csprojResolveAssemblyReference.cache
+F:\xo\xo\obj\Debug\xo.names.resources
+F:\xo\xo\obj\Debug\xo.Form1.resources
+F:\xo\xo\obj\Debug\xo.Form2.resources
+F:\xo\xo\obj\Debug\xo.Form3.resources
+F:\xo\xo\obj\Debug\xo.Properties.Resources.resources
+F:\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+E:\xo\xo\bin\Debug\xo.exe
+E:\xo\xo\bin\Debug\xo.pdb
+E:\xo\xo\obj\Debug\xo.csprojAssemblyReference.cache
+E:\xo\xo\obj\Debug\xo.names.resources
+E:\xo\xo\obj\Debug\xo.Form1.resources
+E:\xo\xo\obj\Debug\xo.Form2.resources
+E:\xo\xo\obj\Debug\xo.Form3.resources
+E:\xo\xo\obj\Debug\xo.Properties.Resources.resources
+E:\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+E:\xo\xo\obj\Debug\xo.exe
+E:\xo\xo\obj\Debug\xo.pdb
+C:\Users\HP\Desktop\xo\xo\bin\Debug\xo.exe
+C:\Users\HP\Desktop\xo\xo\bin\Debug\xo.pdb
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.names.resources
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.Form1.resources
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.Form2.resources
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.Form3.resources
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.Properties.Resources.resources
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.exe
+C:\Users\HP\Desktop\xo\xo\obj\Debug\xo.pdb
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\bin\Debug\xo.exe.config
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\bin\Debug\xo.exe
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\bin\Debug\xo.pdb
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.csproj.AssemblyReference.cache
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.names.resources
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.Form1.resources
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.Form2.resources
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.Form3.resources
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.Properties.Resources.resources
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.exe
+D:\سطح المكتب\T C C\TCC !1\بلرمجة2\لعبة اكس او\xo\xo\obj\Debug\xo.pdb
+C:\Users\ouais\Desktop\programming lectures\xo\xo\bin\Debug\xo.exe.config
+C:\Users\ouais\Desktop\programming lectures\xo\xo\bin\Debug\xo.exe
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.csproj.AssemblyReference.cache
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.names.resources
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.Form1.resources
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.Form2.resources
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.Form3.resources
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.Properties.Resources.resources
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.exe
+C:\Users\ouais\Desktop\programming lectures\xo\xo\obj\Debug\xo.pdb
+C:\Users\ouais\Desktop\programming lectures\xo\xo\bin\Debug\xo.pdb
